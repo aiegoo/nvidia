@@ -125,7 +125,7 @@ This page details the hardware setup instructions for creating JetBot
 
 To build JetBot you'll need the following tools
 
-![Long-nose-pliers_Hakko](images/Long-nose-pliers_Hakko.jpg)![wire-stripper_hakko_30-20](images/wire-stripper_hakko_30-20.jpg)![screw-driver-set_63](images/screw-driver-set_63.jpg)![soldering-iron-station](images/soldering-iron-station.jpg)![XOOL-Tweezers](images/XOOL-Tweezers.jpg)
+![Long-nose-pliers_Hakko](docs/images/Long-nose-pliers_Hakko.jpg)![wire-stripper_hakko_30-20](docs/images/wire-stripper_hakko_30-20.jpg)![screw-driver-set_63](docs/images/screw-driver-set_63.jpg)![soldering-iron-station](docs/images/soldering-iron-station.jpg)![XOOL-Tweezers](docs/images/XOOL-Tweezers.jpg)
 
 * Pliers
 
