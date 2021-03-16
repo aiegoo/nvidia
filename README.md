@@ -297,8 +297,8 @@ To build JetBot you'll need the following tools
 
 ### Step 10 - Solder header onto *PiOLED* display
 
-<a href="docs/images/JB3-Assy_10-1b.jpg"><img src="images/JB3-Assy_10-1b.jpg" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_10-4.JPG"><img src="images/JB3-Assy_10-4.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_10-1b.jpg"><img src="docs/images/JB3-Assy_10-1b.jpg" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_10-4.JPG"><img src="docs/images/JB3-Assy_10-4.JPG" style="height:120px"></a>
 
 1. Secure the 6-pin right angle header to PiOLED display by some method
 
@@ -309,9 +309,9 @@ To build JetBot you'll need the following tools
 
 ### Step 11 - Wire motor driver to *PiOLED* display
 
-<a href="docs/images/JB3-Assy_11-1.JPG"><img src="images/JB3-Assy_11-1.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_11-3.JPG"><img src="images/JB3-Assy_11-3.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_11-5.JPG"><img src="images/JB3-Assy_11-5.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_11-1.JPG"><img src="docs/images/JB3-Assy_11-1.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_11-3.JPG"><img src="docs/images/JB3-Assy_11-3.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_11-5.JPG"><img src="docs/images/JB3-Assy_11-5.JPG" style="height:120px"></a>
 
 1. Select 4 wire segment of female-female jumper cables.
 
@@ -327,10 +327,10 @@ To build JetBot you'll need the following tools
 
 ### Step 12 - Mount camera
 
-<a href="docs/images/JB3-Assy_12-1.JPG"><img src="images/JB3-Assy_12-1.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_12-2.JPG"><img src="images/JB3-Assy_12-2.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_12-3.JPG"><img src="images/JB3-Assy_12-3.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_12-4.JPG"><img src="images/JB3-Assy_12-4.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_12-1.JPG"><img src="docs/images/JB3-Assy_12-1.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_12-2.JPG"><img src="docs/images/JB3-Assy_12-2.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_12-3.JPG"><img src="docs/images/JB3-Assy_12-3.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_12-4.JPG"><img src="docs/images/JB3-Assy_12-4.JPG" style="height:120px"></a>
 
 1. Attach the camera to the camera mount using 4x self tapping screws
 
@@ -340,12 +340,12 @@ To build JetBot you'll need the following tools
 
 ### Step 13 - Attach wide angle sensor
 
-<a href="docs/images/JB3-Assy_13-1.JPG"><img src="images/JB3-Assy_13-1.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_13-2.JPG"><img src="images/JB3-Assy_13-2.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_13-3.JPG"><img src="images/JB3-Assy_13-3.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_13-4.JPG"><img src="images/JB3-Assy_13-4.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_13-5.JPG"><img src="images/JB3-Assy_13-5.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_13-6.JPG"><img src="images/JB3-Assy_13-6.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-1.JPG"><img src="docs/images/JB3-Assy_13-1.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-2.JPG"><img src="docs/images/JB3-Assy_13-2.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-3.JPG"><img src="docs/images/JB3-Assy_13-3.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-4.JPG"><img src="docs/images/JB3-Assy_13-4.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-5.JPG"><img src="docs/images/JB3-Assy_13-5.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_13-6.JPG"><img src="docs/images/JB3-Assy_13-6.JPG" style="height:120px"></a>
 
 1. Peel off the original camera sensor
 
@@ -356,10 +356,10 @@ To build JetBot you'll need the following tools
 
 ### Step 14 - Mount battery
 
-<a href="docs/images/JB3-Assy_14-1.JPG"><img src="images/JB3-Assy_14-1.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_14-2.JPG"><img src="images/JB3-Assy_14-2.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_14-3.JPG"><img src="images/JB3-Assy_14-3.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_14-4.JPG"><img src="images/JB3-Assy_14-4.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_14-1.JPG"><img src="docs/images/JB3-Assy_14-1.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_14-2.JPG"><img src="docs/images/JB3-Assy_14-2.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_14-3.JPG"><img src="docs/images/JB3-Assy_14-3.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_14-4.JPG"><img src="docs/images/JB3-Assy_14-4.JPG" style="height:120px"></a>
 
 1. Attach double sided adhesive tabs to each end of battery, leaving some tab exposed
 
@@ -368,9 +368,9 @@ To build JetBot you'll need the following tools
 
 ### Step 15 - Organize wires
 
-<a href="docs/images/JB3-Assy_15-1.JPG"><img src="images/JB3-Assy_15-1.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_15-2.JPG"><img src="images/JB3-Assy_15-2.JPG" style="height:120px"></a>
-<a href="docs/images/JB3-Assy_15-3.JPG"><img src="images/JB3-Assy_15-3.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_15-1.JPG"><img src="docs/images/JB3-Assy_15-1.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_15-2.JPG"><img src="docs/images/JB3-Assy_15-2.JPG" style="height:120px"></a>
+<a href="docs/images/JB3-Assy_15-3.JPG"><img src="docs/images/JB3-Assy_15-3.JPG" style="height:120px"></a>
 
 1. Route USB cables through chassis to organize and prevent dragging
 
@@ -378,7 +378,7 @@ To build JetBot you'll need the following tools
 
 Once finished, your JetBot should look similar to this.
 
-<a href="docs/images/JB3-Assy_16-5.JPG"><img src="images/JB3-Assy_16-5.JPG"></a>
+<a href="docs/images/JB3-Assy_16-5.JPG"><img src="docs/images/JB3-Assy_16-5.JPG"></a>
 <hr>
 <hr>
 > Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
